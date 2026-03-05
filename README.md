@@ -63,10 +63,10 @@ github-activity kamranahmedse
 ### Example Output
 
 ```
-GitHub Activity for user: kamranahmedse
-- Pushed 3 commits to kamranahmedse/developer-roadmap at 2026-03-05 10:22:11
-- Opened an issue in kamranahmedse/developer-roadmap at 2026-03-05 09:15:43
-- Starred kamranahmedse/developer-roadmap at 2026-03-04 22:10:05
+GitHub Activity for user: borared
+- Pushed 3 commits to borared/developer-roadmap at 2026-03-05 10:22:11
+- Opened an issue in borared/developer-roadmap at 2026-03-05 09:15:43
+- Starred borared/developer-roadmap at 2026-03-04 22:10:05
 ```
 
 ## Project Structure
